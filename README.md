@@ -22,7 +22,7 @@ A few set of commands, and you are ready to get going.
 ```
 git clone git@github.com:Stonelinks/native-starter-kit.git
 
-cd react-native-native-base-seed
+cd native-starter-kit
 
 npm install
 
@@ -33,13 +33,13 @@ react-native android
 If React Native < 0.29
 
 ```sh
-$rnpm link
+rnpm link
 ```
 
 If React Native >= 0.29
 
 ```sh
-$ react-native link
+react-native link
 ```
 
 While running `react-native android` do not overwrite `index.android.js` file.
@@ -49,7 +49,7 @@ While running `react-native android` do not overwrite `index.android.js` file.
 
 **Method One**
 
-*	Open the project in XCode from **ios/ReactNativeNativeBaseSeed.xcodeproj**
+*	Open the project in XCode from **ios/NativeStarterKit.xcodeproj**
 
 *	Hit the play button.
 
