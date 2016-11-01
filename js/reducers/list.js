@@ -12,7 +12,6 @@ const initialState = {
     'RN Navigator',
     'NB Easy Grid',
     'NativeBase',
-    'CodePush',
     'Redux',
   ],
   selectedIndex: undefined,
